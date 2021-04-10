@@ -1,0 +1,91 @@
+div.pagina {
+    border: 6px solid red; 
+    height: 1050px;
+    width: 80%;
+    background-color: yellow;
+    margin: 0 auto;
+}
+div.primera {
+    border: 6px solid black;
+    width: 90%;
+    height: 180px;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-right: 50px;
+    background-color: burlywood;
+}
+img.primera {
+    width: 150px;
+    margin-left: 20px;
+    margin-right: 220px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    float: left;
+}
+span.primera {
+    border: 6px solid yellow;
+    display: inline-block;
+    text-align: center;
+    width: 240px;
+    margin-right: 200px;
+    margin-bottom: 50px;
+    margin-top: 60px;
+    background-color: yellow;
+}
+
+img.segunda {
+    border: 6px solid orange;
+    width: 700px;
+    margin-left: 50px;
+    margin-bottom: 100px;
+    margin-top: 50px;
+    display: inline;
+}
+p.primera {
+    display: inline-block;
+    width: 50px;
+}
+img.tercera {
+    width: 300px;
+    margin-left: 50px;
+    margin-bottom: 120px;
+    border: 6px solid darkblue;
+}
+div.segunda {
+    border: 6px solid green;
+    width: 90%;
+    height: 50px;
+    margin-left: 50px;
+    margin-bottom: 300px;
+    display: inline-block;
+    background-color: green;
+}
+span.segunda {
+    margin-left: 50px;
+    margin-top: 8px;
+    width: 90%;
+    border: 6px solid darkblue;
+    display: block;
+    background-color: skyblue;
+}
+a.tercera {
+    margin-left: 250px;
+}
+a.cuarta {
+    margin-left: 200px;
+}
+p.segunda {
+    margin-left: 50px;
+}
+div.enlaces {
+    border: 6px solid black;
+    width: 15%;
+    float: left;
+    margin-left: 450px;
+    height: 70%;
+    margin-top: -119px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
